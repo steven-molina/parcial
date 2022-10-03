@@ -1,0 +1,18 @@
+/home/luis/RiderProjects/Parcial/Entidades/bin/Debug/Entidades.dll
+/home/luis/RiderProjects/Parcial/Entidades/bin/Debug/Entidades.pdb
+/home/luis/RiderProjects/Parcial/Entidades/obj/Debug/Entidades.csproj.AssemblyReference.cache
+/home/luis/RiderProjects/Parcial/Entidades/obj/Debug/Entidades.csproj.CoreCompileInputs.cache
+/home/luis/RiderProjects/Parcial/Entidades/obj/Debug/Entidades.dll
+/home/luis/RiderProjects/Parcial/Entidades/obj/Debug/Entidades.pdb
+C:/Users/steven/Downloads/Parcial (1)/Parcial/Entidades/bin/Debug/Entidades.dll
+C:/Users/steven/Downloads/Parcial (1)/Parcial/Entidades/bin/Debug/Entidades.pdb
+C:/Users/steven/Downloads/Parcial (1)/Parcial/Entidades/obj/Debug/Entidades.csproj.AssemblyReference.cache
+C:/Users/steven/Downloads/Parcial (1)/Parcial/Entidades/obj/Debug/Entidades.csproj.CoreCompileInputs.cache
+C:/Users/steven/Downloads/Parcial (1)/Parcial/Entidades/obj/Debug/Entidades.dll
+C:/Users/steven/Downloads/Parcial (1)/Parcial/Entidades/obj/Debug/Entidades.pdb
+/home/luis/Downloads/Parcial (1)/Parcial/Entidades/bin/Debug/Entidades.dll
+/home/luis/Downloads/Parcial (1)/Parcial/Entidades/bin/Debug/Entidades.pdb
+/home/luis/Downloads/Parcial (1)/Parcial/Entidades/obj/Debug/Entidades.csproj.AssemblyReference.cache
+/home/luis/Downloads/Parcial (1)/Parcial/Entidades/obj/Debug/Entidades.csproj.CoreCompileInputs.cache
+/home/luis/Downloads/Parcial (1)/Parcial/Entidades/obj/Debug/Entidades.dll
+/home/luis/Downloads/Parcial (1)/Parcial/Entidades/obj/Debug/Entidades.pdb

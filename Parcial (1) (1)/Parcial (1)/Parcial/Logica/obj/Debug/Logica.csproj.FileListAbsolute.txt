@@ -1,0 +1,33 @@
+/home/luis/RiderProjects/Parcial/Logica/bin/Debug/Logica.dll
+/home/luis/RiderProjects/Parcial/Logica/bin/Debug/Logica.pdb
+/home/luis/RiderProjects/Parcial/Logica/bin/Debug/Datos.dll
+/home/luis/RiderProjects/Parcial/Logica/bin/Debug/Entidades.dll
+/home/luis/RiderProjects/Parcial/Logica/bin/Debug/Datos.pdb
+/home/luis/RiderProjects/Parcial/Logica/bin/Debug/Entidades.pdb
+/home/luis/RiderProjects/Parcial/Logica/obj/Debug/Logica.csproj.AssemblyReference.cache
+/home/luis/RiderProjects/Parcial/Logica/obj/Debug/Logica.csproj.CoreCompileInputs.cache
+/home/luis/RiderProjects/Parcial/Logica/obj/Debug/Logica.csproj.CopyComplete
+/home/luis/RiderProjects/Parcial/Logica/obj/Debug/Logica.dll
+/home/luis/RiderProjects/Parcial/Logica/obj/Debug/Logica.pdb
+C:/Users/steven/Downloads/Parcial (1)/Parcial/Logica/bin/Debug/Logica.dll
+C:/Users/steven/Downloads/Parcial (1)/Parcial/Logica/bin/Debug/Logica.pdb
+C:/Users/steven/Downloads/Parcial (1)/Parcial/Logica/bin/Debug/Datos.dll
+C:/Users/steven/Downloads/Parcial (1)/Parcial/Logica/bin/Debug/Entidades.dll
+C:/Users/steven/Downloads/Parcial (1)/Parcial/Logica/bin/Debug/Datos.pdb
+C:/Users/steven/Downloads/Parcial (1)/Parcial/Logica/bin/Debug/Entidades.pdb
+C:/Users/steven/Downloads/Parcial (1)/Parcial/Logica/obj/Debug/Logica.csproj.AssemblyReference.cache
+C:/Users/steven/Downloads/Parcial (1)/Parcial/Logica/obj/Debug/Logica.csproj.CoreCompileInputs.cache
+C:/Users/steven/Downloads/Parcial (1)/Parcial/Logica/obj/Debug/Logica.csproj.CopyComplete
+C:/Users/steven/Downloads/Parcial (1)/Parcial/Logica/obj/Debug/Logica.dll
+C:/Users/steven/Downloads/Parcial (1)/Parcial/Logica/obj/Debug/Logica.pdb
+/home/luis/Downloads/Parcial (1)/Parcial/Logica/bin/Debug/Logica.dll
+/home/luis/Downloads/Parcial (1)/Parcial/Logica/bin/Debug/Logica.pdb
+/home/luis/Downloads/Parcial (1)/Parcial/Logica/bin/Debug/Datos.dll
+/home/luis/Downloads/Parcial (1)/Parcial/Logica/bin/Debug/Entidades.dll
+/home/luis/Downloads/Parcial (1)/Parcial/Logica/bin/Debug/Datos.pdb
+/home/luis/Downloads/Parcial (1)/Parcial/Logica/bin/Debug/Entidades.pdb
+/home/luis/Downloads/Parcial (1)/Parcial/Logica/obj/Debug/Logica.csproj.AssemblyReference.cache
+/home/luis/Downloads/Parcial (1)/Parcial/Logica/obj/Debug/Logica.csproj.CoreCompileInputs.cache
+/home/luis/Downloads/Parcial (1)/Parcial/Logica/obj/Debug/Logica.csproj.CopyComplete
+/home/luis/Downloads/Parcial (1)/Parcial/Logica/obj/Debug/Logica.dll
+/home/luis/Downloads/Parcial (1)/Parcial/Logica/obj/Debug/Logica.pdb
